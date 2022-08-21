@@ -1,6 +1,6 @@
 {
-	"ip":"example.aternos.ip",
-	"port": "25565",
-	"name": "afkbot1",
-	"auto-night-skip":"true"
+	"ip":"SilverHub.aternos.me",
+	"port": "42435",
+	"name": "BadBoy",
+	"auto-night-skip":"false"
 }
